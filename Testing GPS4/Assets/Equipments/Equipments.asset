@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Equipments
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5169677199433746718
+  m_GuidHigh: 6173450462337424279
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5674398473533672756
+      m_GuidHigh: 3545255597963649200
+    m_SerializedTextureGuid:
+      m_GuidLow: 8702352498310538289
+      m_GuidHigh: 3510129304098454520
+    m_Size: {x: 0.2, y: 0.35506243}
+    m_SpecifySize: 1
+    m_Name: Elliptical
+    m_Texture: {fileID: 2800000, guid: 7c086431f77d78c4f83b7a2e017cb630, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4887295758885987395
+      m_GuidHigh: 10907562100989182081
+    m_SerializedTextureGuid:
+      m_GuidLow: 104774332760099527
+      m_GuidHigh: 10110773076012178123
+    m_Size: {x: 0.2, y: 0.35506243}
+    m_SpecifySize: 1
+    m_Name: Pony
+    m_Texture: {fileID: 2800000, guid: 55be8ac73bb30174cb1a4a208bae508c, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4735585863712017035
+      m_GuidHigh: 6109246358613182397
+    m_SerializedTextureGuid:
+      m_GuidLow: 18051791869625585356
+      m_GuidHigh: 3067837302526049963
+    m_Size: {x: 0.2, y: 0.35506243}
+    m_SpecifySize: 1
+    m_Name: Surfer
+    m_Texture: {fileID: 2800000, guid: 1c514eccd910fa84abfec1c5c525932a, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5103032392236124404
+      m_GuidHigh: 11231076689064700807
+    m_SerializedTextureGuid:
+      m_GuidLow: 9233580523367352576
+      m_GuidHigh: 11729934942121776040
+    m_Size: {x: 7.678897, y: 7.81}
+    m_SpecifySize: 1
+    m_Name: gumball
+    m_Texture: {fileID: 2800000, guid: 7c46c90044908024a8539c97ae19c9a2, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5136028433932407255
+      m_GuidHigh: 3629071517343152285
+    m_SerializedTextureGuid:
+      m_GuidLow: 16615078879462602546
+      m_GuidHigh: 14967930021947846298
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: A
+    m_Texture: {fileID: 2800000, guid: dd76b7329e35e6949a2e1b2d0dc5b8cf, type: 3}
